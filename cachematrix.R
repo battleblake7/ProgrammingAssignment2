@@ -27,5 +27,5 @@ cacheSolve <- function(x, ...) {
   i
 }
 
-A <- makeCacheMatrix(Z)
-A
+C <- makeCacheMatrix(Z)
+C
